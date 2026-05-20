@@ -1,0 +1,6 @@
+{
+  "name": "Adas Concepts",
+  "description": "Professional automobile detailing and repair business operating in Renton, Washington since 2004.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
